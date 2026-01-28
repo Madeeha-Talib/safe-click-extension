@@ -19,7 +19,7 @@
 ---
 
 ## Website Link 
-go to this githu repository = https://github.com/Madeeha-Talib/safe-click-website.git 
+go to this github repository = https://github.com/Madeeha-Talib/safe-click-website.git 
 
 ## 🎯 Overview
 
