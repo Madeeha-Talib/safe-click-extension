@@ -1,4 +1,4 @@
-# 🛡️ SafeClick - AI-Powered Website Safety Analyzer
+#<img width="40" height="40" alt="SafeClick Logo" src="https://github.com/user-attachments/assets/0d9c100c-f3df-4668-8b2d-aec8f647c294" /> SafeClick - AI-Powered Website Safety Analyzer
 
 > An intelligent Chrome extension that analyzes websites in real-time to detect phishing, malware, and other security threats using machine learning.
 
