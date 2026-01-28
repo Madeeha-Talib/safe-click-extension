@@ -53,38 +53,46 @@ go to this githu repository = https://github.com/Madeeha-Talib/safe-click-websit
 ## 📸 Screenshots
 
 ### **1. Extension Popup Interface**
-![Extension Install](image-9.png)
-![Popup Interface](image-5.png)
+![Extension Install] <img width="618" height="281" alt="image" src="https://github.com/user-attachments/assets/6fa1b32e-4732-4d24-a987-35fc7dfc07d7" />
+
+![Popup Interface] <img width="434" height="497" alt="image" src="https://github.com/user-attachments/assets/979cd64b-c833-4d0d-8cfc-b508c76d9281" />
+
 - Shows current URL
 - Display of risk score
 - Analyze button
 - History section
 
 ### **2. Safe Website Analysis**
-![Safe Result](image-12.png)
+![Safe Result] <img width="305" height="364" alt="image" src="https://github.com/user-attachments/assets/a6203b27-6e34-4a81-bc08-11714718c7c6" />
+
 - Green status indicator (✅ SAFE)
 - Low risk score (e.g., 15%)
 - Model votes breakdown
 - Security explanations
 
 ### **3. Unsafe Website Alert**
-![Unsafe Result](image-4.png)
+![Unsafe Result] <img width="748" height="379" alt="image" src="https://github.com/user-attachments/assets/cd1b198a-97c7-4c9f-956f-1e564d72dba4" />
+
 - Red status indicator (🚨 UNSAFE)
 - High risk score (e.g., 85%)
 - Risk factors listed
 - Phishing warnings
 
 ### **4. In-Page Banner Alert**
-![Banner Alert](image-3.png)
+![Banner Alert] <img width="496" height="182" alt="image" src="https://github.com/user-attachments/assets/4c689b4d-40a9-4a38-a6d1-d0a4c4535960" />
+
 - Automatic alert on webpage
 - Safety verdict display
 - Risk percentage
 - Auto-close functionality
 
 ### **5. Flask Server Running**
-![Loading Models](image.png)
-![All Models Successfuly Loaded](image-1.png)
-![Server is Ready](image-2.png)
+![Loading Models] <img width="610" height="381" alt="image" src="https://github.com/user-attachments/assets/f20f38fd-3004-482e-94f6-12da3728eaf4" />
+
+![All Models Successfuly Loaded] <img width="658" height="405" alt="image" src="https://github.com/user-attachments/assets/1a844dd0-4fd0-44e0-8816-a5218397544b" />
+
+![Server is Ready] <img width="663" height="327" alt="image" src="https://github.com/user-attachments/assets/1039bcc9-01f7-443e-b98a-a89e204b1ba3" />
+
 ```
 ==================================================
 🚀 SafeClick ML Server - Starting...
@@ -100,13 +108,15 @@ go to this githu repository = https://github.com/Madeeha-Talib/safe-click-websit
 ```
 
 ### **6. Chrome Extension Loaded**
-![Chrome Extension](image-10.png)
+![Chrome Extension] <img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/08c61e4a-7a86-48bf-abf7-ef80ca0a90dd" />
+
 - SafeClick extension in extension list
 - Extension pinned to toolbar
 - Version information
 
 ### **7. Detailed Analysis Results**
-![Detailed Analysis](image-11.png)
+![Detailed Analysis] <img width="458" height="534" alt="image" src="https://github.com/user-attachments/assets/3adb38e5-8fe1-454c-81e3-196a3458f053" />
+
 - All 6 model predictions
 - Confidence metrics
 - Detailed warnings
